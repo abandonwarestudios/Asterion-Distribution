@@ -3,7 +3,7 @@
   "builds": [
     {
       "version": "0.11.1.00",
-      "url": "http://localhost:8000/builds/asterion_0.11.1.00.zip",
+      "url": "https://github.com/abandonwarestudios/Asterion-Distribution/releases/download/Release/asterion_0.11.1.00.zip",
       "sha256": "12BE449D6512866D0119E49CACB4A32CEF5F448AB1F986831435F2F144F9FFD9",
       "size": 0,
       "notes": "Initial Asterion launcher test build.",
