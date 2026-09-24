@@ -4,7 +4,7 @@
     {
       "version": "0.11.1.00",
       "url": "https://github.com/abandonwarestudios/Asterion-Distribution/releases/download/v0.11.1.00/asterion_0.11.1.00.zip",
-      "sha256": "088D057ABF596EAB5570F7CD32D23D239BB0BBE8553C3586FB9FF64BF315AE30",
+      "sha256": "7e18f6a29491d42148f45c9214377b88730b4a7be53b6b517dfa156d5c7c8b04",
       "size": 0,
       "notes": "Initial public Asterion launcher build.",
       "executable": "Asterion.exe"
