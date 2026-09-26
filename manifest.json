@@ -30,5 +30,13 @@
         }
       ]
     }
-  ]
+  ],
+  "launcher": {
+    "version": "0.3.0",
+    "url": "",
+    "sha256": "",
+    "size": 0,
+    "notes": "Self-updating launcher bootstrap release.",
+    "publishedUtc": null
+  }
 }
