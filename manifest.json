@@ -1,13 +1,34 @@
 {
   "latest": "0.11.1.00",
+  "channels": {
+    "stable": "0.11.1.00"
+  },
   "builds": [
     {
       "version": "0.11.1.00",
+      "channel": "stable",
       "url": "https://github.com/abandonwarestudios/Asterion-Distribution/releases/download/v0.11.1.00/asterion_0.11.1.00.zip",
       "sha256": "b65346b7f52881813683f15a1f4059793e55e4f2633c395646008b3606459d28",
-      "size": 0,
+      "size": 94821145,
       "notes": "Initial public Asterion launcher build.",
-      "executable": "Asterion.exe"
+      "executable": "Asterion.exe",
+      "files": [
+        {
+          "path": "Asterion.exe",
+          "sha256": "c4e6ed98bb30f1199e23f86754958669a9408e582a7f5cdd60fdd70d669cd47e",
+          "size": 109168640
+        },
+        {
+          "path": "Asterion.pck",
+          "sha256": "82e50436b4363ce143380e3fd1e88b8aff6e5e2e7fcf7e6741826681dceacc75",
+          "size": 64629040
+        },
+        {
+          "path": "libdd3d.windows.template_release.x86_64.dll",
+          "sha256": "619e6558f4a3745d4e193f313b625c557a6787d8d2fff44c3cdbe46fb5a57fbe",
+          "size": 1146880
+        }
+      ]
     }
   ]
 }
