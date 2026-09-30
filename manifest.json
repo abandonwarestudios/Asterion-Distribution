@@ -32,11 +32,11 @@
                    }
                ],
     "launcher":  {
-                     "version":  "0.3.0",
-                     "url":  "https://github.com/abandonwarestudios/Asterion-Distribution/releases/download/launcher-v0.3.0/asterion_launcher_0.3.0_win-x64.zip",
-                     "sha256":  "50e5b52dbb6a9c5983ababeb77838b5668df3e21adf0826e8b0ef0415c80a6e6",
-                     "size":  95026431,
-                     "notes":  "Self-updating launcher bootstrap release.",
-                     "publishedUtc":  "2026-09-27T00:15:08.2671829+00:00"
+                     "version":  "0.4.0",
+                     "url":  "https://github.com/abandonwarestudios/Asterion-Distribution/releases/download/launcher-v0.4.0/asterion_launcher_0.4.0_win-x64.zip",
+                     "sha256":  "daa69150c1652fd13619985a7639cdaea56aae4422e9a29e30d1d65d20a5baf0",
+                     "size":  95027761,
+                     "notes":  "V4 launcher presentation overhaul.",
+                     "publishedUtc":  "2026-09-30T05:02:54.5488053+00:00"
                  }
 }
