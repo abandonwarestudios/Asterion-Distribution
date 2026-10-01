@@ -1,42 +1,43 @@
 {
-    "latest":  "0.11.1.00",
-    "channels":  {
-                     "stable":  "0.11.1.00"
-                 },
-    "builds":  [
-                   {
-                       "version":  "0.11.1.00",
-                       "channel":  "stable",
-                       "url":  "https://github.com/abandonwarestudios/Asterion-Distribution/releases/download/v0.11.1.00/asterion_0.11.1.00.zip",
-                       "sha256":  "f642ca9a900b0a03b2e753eb2a1ad1b01e2e999174e0ca3a63bc6fe0a1ccdc26",
-                       "size":  94850671,
-                       "notes":  "Initial public Asterion launcher build.",
-                       "executable":  "Asterion.exe",
-                       "files":  [
-                                     {
-                                         "path":  "Asterion.exe",
-                                         "sha256":  "c4e6ed98bb30f1199e23f86754958669a9408e582a7f5cdd60fdd70d669cd47e",
-                                         "size":  109168640
-                                     },
-                                     {
-                                         "path":  "Asterion.pck",
-                                         "sha256":  "927edebb5eeb8c58de3a84c11cd8b029f2ea7551ef1e7ca2f0ac89e3de8b3531",
-                                         "size":  64665812
-                                     },
-                                     {
-                                         "path":  "libdd3d.windows.template_release.x86_64.dll",
-                                         "sha256":  "619e6558f4a3745d4e193f313b625c557a6787d8d2fff44c3cdbe46fb5a57fbe",
-                                         "size":  1146880
-                                     }
-                                 ]
-                   }
-               ],
-    "launcher":  {
-                     "version":  "0.4.0",
-                     "url":  "https://github.com/abandonwarestudios/Asterion-Distribution/releases/download/launcher-v0.4.0/asterion_launcher_0.4.0_win-x64.zip",
-                     "sha256":  "daa69150c1652fd13619985a7639cdaea56aae4422e9a29e30d1d65d20a5baf0",
-                     "size":  95027761,
-                     "notes":  "V4 launcher presentation overhaul.",
-                     "publishedUtc":  "2026-09-30T05:02:54.5488053+00:00"
-                 }
+  "latest": "",
+  "channels": {
+    "stable": "",
+    "dev": "0.11.1.00"
+  },
+  "builds": [
+    {
+      "version": "0.11.1.00",
+      "channel": "dev",
+      "url": "https://github.com/abandonwarestudios/Asterion-Distribution/releases/download/v0.11.1.00/asterion_0.11.1.00.zip",
+      "sha256": "606b7057b374d46777ea5ff58116ed2327f8aa78c74f9cb1f8915645b6afebf0",
+      "size": 94864296,
+      "notes": "Development build with presentation overhaul, Tempest maneuver tuning, propulsion FX improvements, and updated tactical UI.",
+      "executable": "Asterion.exe",
+      "files": [
+        {
+          "path": "Asterion.exe",
+          "sha256": "c4e6ed98bb30f1199e23f86754958669a9408e582a7f5cdd60fdd70d669cd47e",
+          "size": 109168640
+        },
+        {
+          "path": "Asterion.pck",
+          "sha256": "14776d5290b098d8013525f92fe05cbe706c0e35bc1bd578dc6da09c559848fd",
+          "size": 64678996
+        },
+        {
+          "path": "libdd3d.windows.template_release.x86_64.dll",
+          "sha256": "619e6558f4a3745d4e193f313b625c557a6787d8d2fff44c3cdbe46fb5a57fbe",
+          "size": 1146880
+        }
+      ]
+    }
+  ],
+  "launcher": {
+    "version": "0.4.0",
+    "url": "https://github.com/abandonwarestudios/Asterion-Distribution/releases/download/launcher-v0.4.0/asterion_launcher_0.4.0_win-x64.zip",
+    "sha256": "daa69150c1652fd13619985a7639cdaea56aae4422e9a29e30d1d65d20a5baf0",
+    "size": 95027761,
+    "notes": "V4 launcher presentation overhaul.",
+    "publishedUtc": "2026-09-30T05:02:54.5488053+00:00"
+  }
 }
