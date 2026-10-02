@@ -9,9 +9,9 @@
       "version": "0.11.1.00",
       "channel": "dev",
       "url": "https://github.com/abandonwarestudios/Asterion-Distribution/releases/download/v0.11.1.00/asterion_0.11.1.00.zip",
-      "sha256": "606b7057b374d46777ea5ff58116ed2327f8aa78c74f9cb1f8915645b6afebf0",
-      "size": 94864296,
-      "notes": "Development build with presentation overhaul, Tempest maneuver tuning, propulsion FX improvements, and updated tactical UI.",
+      "sha256": "ae39cc9a0ac0f30ed9635edf037eb3f28b9c0f555c10a7e35f53e31e740ca6af",
+      "size": 94916848,
+      "notes": "Development build with tactical AI, Fairway combat behavior, weapon behavior, propulsion FX, and presentation improvements.",
       "executable": "Asterion.exe",
       "files": [
         {
@@ -21,8 +21,8 @@
         },
         {
           "path": "Asterion.pck",
-          "sha256": "14776d5290b098d8013525f92fe05cbe706c0e35bc1bd578dc6da09c559848fd",
-          "size": 64678996
+          "sha256": "75b5687f8910d0a923e73b548ba50cbe7458f5a77f5fbaea2057a2fa1bd9b3ea",
+          "size": 64733300
         },
         {
           "path": "libdd3d.windows.template_release.x86_64.dll",
