@@ -9,9 +9,9 @@
       "version": "0.11.1.00",
       "channel": "dev",
       "url": "https://github.com/abandonwarestudios/Asterion-Distribution/releases/download/v0.11.1.00/asterion_0.11.1.00.zip",
-      "sha256": "94da1fecd1e1cc2966d941e24ae7d4aa2c9d0ff2eead0b1cfa6b3c65a654e431",
-      "size": 95423867,
-      "notes": "Development build with updated combat AI, hull damage balance, weapon tuning, projectile trail improvements, and presentation updates.",
+      "sha256": "52f30ffd7f4d222ebcc6f72c8b5e72bf1b4c1bb5fc45c572b95727a5ffbff980",
+      "size": 95507895,
+      "notes": "Development build with refined combat behavior, thermal radiator simulation, turret articulation fixes, tighter collision geometry, improved impact placement, updated lighting, and presentation polish.",
       "executable": "Asterion.exe",
       "files": [
         {
@@ -21,8 +21,8 @@
         },
         {
           "path": "Asterion.pck",
-          "sha256": "26224dabd1a8ca5b9e98a51a83288f803e6aefe6804aca114aab95541bbdc4b4",
-          "size": 64743620
+          "sha256": "32c53baf1b82dd79b3efa05a626c9fcec8db8a837066f2c57b5285cf2ba8e18e",
+          "size": 70589136
         },
         {
           "path": "libdd3d.windows.template_release.x86_64.dll",
