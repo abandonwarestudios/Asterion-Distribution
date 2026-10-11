@@ -9,9 +9,9 @@
       "version": "0.11.1.00",
       "channel": "dev",
       "url": "https://github.com/abandonwarestudios/Asterion-Distribution/releases/download/v0.11.1.00/asterion_0.11.1.00.zip",
-      "sha256": "6bad83206f0fc4e66c064a0c7eaba3094adb0bc68b8ebaf266172310aa564481",
-      "size": 95520736,
-      "notes": "Development build with refined combat behavior, thermal radiator simulation, turret articulation fixes, tighter collision geometry, improved impact placement, updated lighting, and presentation polish.",
+      "sha256": "3d2548cc158022e8bb09f5f0c3df2c6f0e0e81ea8a93fbae657f87be237930f7",
+      "size": 95546779,
+      "notes": "Development build with fuel and ammunition logistics, persistent formations, refined weapon cadence and heavy projectile trails, thermal radiators, improved turret articulation, dedicated point defence, basic post-surrender docking and boarding, crew and marine systems, reduced maneuver wiggle, limited 12-inch traverse, stern-chase behavior, and extended heavy-weapon ranges.",
       "executable": "Asterion.exe",
       "files": [
         {
@@ -21,8 +21,8 @@
         },
         {
           "path": "Asterion.pck",
-          "sha256": "ddc2df7e0590dc3dd7ef7dbfc3679989176a69355d39e4c68b4e400c46be803e",
-          "size": 70602852
+          "sha256": "3f1253b91d744ad48b25cf804b1c3a71fba2cec308700d8c1a11d3afbab2f6dd",
+          "size": 70630736
         },
         {
           "path": "libdd3d.windows.template_release.x86_64.dll",
