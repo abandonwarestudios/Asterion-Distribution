@@ -2,16 +2,16 @@
   "latest": "",
   "channels": {
     "stable": "",
-    "dev": "0.11.1.00"
+    "dev": "0.11.1.27"
   },
   "builds": [
     {
-      "version": "0.11.1.00",
+      "version": "0.11.1.27",
       "channel": "dev",
-      "url": "https://github.com/abandonwarestudios/Asterion-Distribution/releases/download/v0.11.1.00/asterion_0.11.1.00.zip",
-      "sha256": "3d2548cc158022e8bb09f5f0c3df2c6f0e0e81ea8a93fbae657f87be237930f7",
-      "size": 95546779,
-      "notes": "Development build with fuel and ammunition logistics, persistent formations, refined weapon cadence and heavy projectile trails, thermal radiators, improved turret articulation, dedicated point defence, basic post-surrender docking and boarding, crew and marine systems, reduced maneuver wiggle, limited 12-inch traverse, stern-chase behavior, and extended heavy-weapon ranges.",
+      "url": "https://github.com/abandonwarestudios/Asterion-Distribution/releases/download/v0.11.1.27/asterion_0.11.1.27.zip",
+      "sha256": "a3cca447b158d6d499608a985ec706973dceeac3baa7763da42b9dcef85a0da9",
+      "size": 95925714,
+      "notes": "Asterion development build 0.11.1.27.",
       "executable": "Asterion.exe",
       "files": [
         {
@@ -21,8 +21,8 @@
         },
         {
           "path": "Asterion.pck",
-          "sha256": "3f1253b91d744ad48b25cf804b1c3a71fba2cec308700d8c1a11d3afbab2f6dd",
-          "size": 70630736
+          "sha256": "2b5b3f8bfb48fbec67e5ffe904837252efad7fbc3d8efa798fd42696db73322a",
+          "size": 71014220
         },
         {
           "path": "libdd3d.windows.template_release.x86_64.dll",
